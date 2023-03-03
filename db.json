@@ -1,10 +1,8 @@
 {
-  "contact": [
-    {
+  "contact": {
     "id": 1,
-  "name": "",
-  "email": "",
-  "message": ""
+    "name": "",
+    "email": "",
+    "message": ""
     }
-  ]
 }
